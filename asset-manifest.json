@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RANATHEMORTIS/Project-Tourism-Plan/static/css/main.9590c2e2.css",
+    "main.js": "/RANATHEMORTIS/Project-Tourism-Plan/static/js/main.9218a9ae.js",
+    "index.html": "/RANATHEMORTIS/Project-Tourism-Plan/index.html",
+    "main.9590c2e2.css.map": "/RANATHEMORTIS/Project-Tourism-Plan/static/css/main.9590c2e2.css.map",
+    "main.9218a9ae.js.map": "/RANATHEMORTIS/Project-Tourism-Plan/static/js/main.9218a9ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9590c2e2.css",
+    "static/js/main.9218a9ae.js"
+  ]
+}
