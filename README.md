@@ -62,9 +62,6 @@ The application will now be running at **http://localhost:5173/**.
 ## **🤝 Contributing**
 Feel free to submit **issues** and **pull requests** to improve this project! 😊
 
-## **📜 License**
-This project is licensed under the **MIT License**.
-
 ---
 Happy Coding! 🚀
 
